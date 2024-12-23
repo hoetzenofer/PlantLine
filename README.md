@@ -104,7 +104,7 @@ Here are all the features, **summarized**:
 
 - Use blue and red light (if needed, for example in winter)
 
-- Send messages on Discord via bot
+- Show stats on Discord via bot
 
 ---
 
